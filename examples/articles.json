@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Example ai workflow story 1",
+    "url": "https://example.com/ai-1",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example ai workflow story 2",
+    "url": "https://example.com/ai-2",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example ai workflow story 3",
+    "url": "https://example.com/ai-3",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example ai workflow story 4",
+    "url": "https://example.com/ai-4",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example ai workflow story 5",
+    "url": "https://example.com/ai-5",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example business workflow story 1",
+    "url": "https://example.com/business-1",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example business workflow story 2",
+    "url": "https://example.com/business-2",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example business workflow story 3",
+    "url": "https://example.com/business-3",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example business workflow story 4",
+    "url": "https://example.com/business-4",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  },
+  {
+    "title": "Example business workflow story 5",
+    "url": "https://example.com/business-5",
+    "snippet": "Invented demonstration source about a small-business workflow.",
+    "published_at": "2026-11-10T12:00:00Z",
+    "_source": "synthetic"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "ai_world": [
+    {
+      "headline": "Example ai workflow story 1",
+      "url": "https://example.com/ai-1",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example ai workflow story 2",
+      "url": "https://example.com/ai-2",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example ai workflow story 3",
+      "url": "https://example.com/ai-3",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example ai workflow story 4",
+      "url": "https://example.com/ai-4",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example ai workflow story 5",
+      "url": "https://example.com/ai-5",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    }
+  ],
+  "business_world": [
+    {
+      "headline": "Example business workflow story 1",
+      "url": "https://example.com/business-1",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example business workflow story 2",
+      "url": "https://example.com/business-2",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example business workflow story 3",
+      "url": "https://example.com/business-3",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example business workflow story 4",
+      "url": "https://example.com/business-4",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    },
+    {
+      "headline": "Example business workflow story 5",
+      "url": "https://example.com/business-5",
+      "source_label": "Example",
+      "why_it_matters": "A synthetic example of checking a workflow against evidence before extending it."
+    }
+  ],
+  "teach_this": {
+    "headline": "Example ai workflow story 1",
+    "url": "https://example.com/ai-1",
+    "source_label": "Example",
+    "lesson": "Choose one repeated task, document its inputs and boundaries, and inspect the output before expansion."
+  }
+}
