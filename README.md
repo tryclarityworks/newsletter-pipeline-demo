@@ -1,5 +1,9 @@
 # Newsletter pipeline demo
 
+[![Offline checks](https://github.com/tryclarityworks/newsletter-pipeline-demo/actions/workflows/check.yml/badge.svg)](https://github.com/tryclarityworks/newsletter-pipeline-demo/actions/workflows/check.yml)
+
+![Actual synthetic example output](examples/preview.png)
+
 A Python example of taking source articles through relevance scoring, structured newsletter generation, source-URL validation, JSON repair, and HTML/plain-text rendering. Adapted from Clarity Works tooling by Vatsal Jain with AI-assisted development.
 
 The default demo uses invented articles and in-memory HTTP responses. It exercises the implementation's validation and repair paths without credentials, network requests, or email delivery. This is a technical showcase; its fixture output is not a live news issue or a quality benchmark.
@@ -60,3 +64,7 @@ Keep credentials and generated operational logs outside Git. `.env.example` cont
 - `tests/`: existing implementation tests plus showcase boundary checks.
 
 See [PROVENANCE.md](PROVENANCE.md) for the extraction boundary and additions. Vatsal's broader work is described at [vatsaljain.com](https://vatsaljain.com). No open-source license has been assigned to this showcase.
+
+## Portfolio context
+
+See [public code examples](https://www.vatsaljain.com/work/#code) for this Python sample alongside the outbound and GTM demos. This is separate from Infnty and from the Clarity Works video-production workflow. The preview is the actual included synthetic HTML issue, captured November 17, 2026.
